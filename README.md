@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This is a SharePoint template repository. You are required to create a ZIP file of this template for your assigned capstone project. Include your updated `README.md` and all required project files and deliverables. Before creating the ZIP, remove the virtual environment (`venv`) and ensure that no `.env` files or environment secrets are included.
+>
+> **No GitHub upload is required. Upload only the completed ZIP file to the designated SharePoint folder.**
+
+
 # [Your Capstone Project Title]
 
 [Provide a brief one- or two-line description of your project and what it aims to accomplish.]
